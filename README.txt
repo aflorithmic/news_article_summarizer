@@ -29,7 +29,7 @@ Installation:
 "pip install -U audiostack" or "pip3 install -U audiostack"
 Audiostack SDK quick start: https://docs.audiostack.ai/docs/getting-started#quickstarts
 
-- Beuatiful soup can be installed using the command "pip install beautifulsoup4"
+- Beautiful soup can be installed using the command "pip install beautifulsoup4"
 
 Known Bugs:
 
