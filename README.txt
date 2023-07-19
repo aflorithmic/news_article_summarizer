@@ -19,7 +19,7 @@ ChatGPT prompt:
 
 API Keys:
 
-Unique API keys for the chatGPT API and Aflorithmic Audiostack API are required for line 6 in chatgpt.py and line 12 in main.py respectively. These API keys can be imported or stored as privates. 
+Unique API keys for the chatGPT API and Aflorithmic Audiostack API are required for line 6 in chatgpt.py and line 12 in main.py respectively. These API keys can be imported or stored as secrets. 
 
 Installation:
 
